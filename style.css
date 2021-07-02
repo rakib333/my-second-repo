@@ -1,15 +1,22 @@
 .repo {
     background-color: #79cce7;
-    color: lime;
+    color: #2b10c0;
     font-family: 'Courier New', Courier, monospace;
+    width: 500px;
+    border: 5px solid hsl(83, 85%, 41%);
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 15px;
 }
 h2{
     color: rgb(24, 206, 24);
     font-family: 'Courier New', Courier, monospace;
-    font-size: 3em;
+    font-size: 1em;
 }
 h3{
-    color: lime;
-    font-size: 3em;
+    color: lime;;
     font-weight: 600;
+}
+.heading {
+    margin-left: 432px;
 }
