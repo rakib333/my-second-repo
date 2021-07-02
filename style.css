@@ -3,3 +3,13 @@
     color: lime;
     font-family: 'Courier New', Courier, monospace;
 }
+h2{
+    color: rgb(24, 206, 24);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+}
+h3{
+    color: lime;
+    font-size: 3em;
+    font-weight: 600;
+}
